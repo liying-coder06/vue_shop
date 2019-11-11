@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,
+body,
+#app {
+   height: 100%;
+}
+
+.el-card {
+    margin-top: 20px;
+    box-shadow: 0 0 1px #ccc;
+}
+
+.el-table{
+    margin-top: 20px;
+    font-size: 12px;
+}
+.zk-table {
+    margin-top: 20px;
+}
+.el-pagination {
+    margin-top: 20px;
+}
